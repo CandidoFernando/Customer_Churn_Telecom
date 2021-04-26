@@ -11,7 +11,7 @@ O projeto trata-se de um modelo de Classificação, no qual procuraremos prever 
 * Tratando Outliers
 * Tratando valores missing
 * Balanceamento dos dados
-* * SMOTE - Balamceamento
+* * SMOTE - Balanceamento
 * * NearMiss
 
 #### Modelo de previsão:
